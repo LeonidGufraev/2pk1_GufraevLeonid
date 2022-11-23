@@ -2,42 +2,11 @@
 отрицательных элементов. Если эта сумма меньше -100, то необходимо прибавить к ней
 минимальный положительный элемент*/
 
-
-
-//n - генератор случайных чисел
-//b - кол-во элементов массива
-//nums - массив
-//i, j, k - индексы массива
-//m - случайное число заданного диапазона
-// sum - сумма отрицательных элементов массива
-// ch - переменная, хранящая значение самого маленького числа
-
-Console.WriteLine("Введите кол-во элементов массива:");
-Random n = new Random();
-byte b = Convert.ToByte(Console.ReadLine());
-int[] nums = new int[b];
-int sum = 0;
-int ch = 50;
-for (byte i = 0; i < b; i++)
+Console.WriteLine("Введите кол-во элементов массива"); //В задании не прописано количество элементов массива
+int n = Convert.ToInt32(Console.ReadLine());
+Random[] nums = new Random[n];
+Range j = -50..49;
+Console.WriteLine(nums);
+for(; ; )
 {
-    int m = n.Next(-50, 49);
-    nums[i] = m;
 }
-for (byte j = 0; j < b; j++)
-{
-    if (nums[j] < 0)
-    {
-        sum += nums[j];
-    }
-}
-Console.WriteLine($"Сумма отрицательных чисел = {sum}");
-if (sum < -100)
-{
-    for (byte k = 0; k < b; k++)
-    {
-        if (nums[k] < ch && nums[k] > 0)
-            ch = nums[k];
-    }
-    sum += ch;
-}
-Console.WriteLine($"Конечный ответ - {sum}");

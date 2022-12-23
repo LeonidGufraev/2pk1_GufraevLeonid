@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\bin\Debug\net6.0\pz_13.exe
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\bin\Debug\net6.0\pz_13.deps.json
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\bin\Debug\net6.0\pz_13.runtimeconfig.json
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\bin\Debug\net6.0\pz_13.dll
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\bin\Debug\net6.0\pz_13.pdb
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.AssemblyInfo.cs
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.dll
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\refint\pz_13.dll
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.pdb
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\pz_13.genruntimeconfig.cache
+C:\Users\User\source\repos\2pk1_GufraevLeonid\pz_12\pz_13\obj\Debug\net6.0\ref\pz_13.dll
